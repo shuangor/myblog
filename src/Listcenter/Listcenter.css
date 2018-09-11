@@ -1,0 +1,13 @@
+.Listcenter {
+  width: 95%;
+  margin: 0px auto;
+  padding: 4%;
+  border-radius: 5px;
+  background-color: rgb(250, 250, 250);
+}
+
+.Listcenter span {
+  display: inline-block;
+  width: 100%;
+  height: 80px;
+}

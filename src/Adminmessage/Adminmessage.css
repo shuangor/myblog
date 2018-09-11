@@ -1,0 +1,71 @@
+.adminmessage {
+    width: 80%;
+    height: 100%;
+    z-index: 2;
+    overflow: auto;
+    padding-top: 20px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+.textarea {
+  width: 80%;
+  height: 100%;
+  margin: 20px auto;
+}
+
+.adminp {
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 22px;
+}
+
+.chooseType {
+  width: 80%;
+  height: 60px;
+  margin: 40px auto;
+}
+
+.chooseImg {
+  width: 80%;
+  height: 100px;
+  margin: 40px auto;
+}
+
+.chooseImg img {
+  width: 100px;
+  height: 80px;
+  border-radius: 3px;
+}
+
+.typeSpan {
+  display: inline-block;
+  margin-right: 80px;
+}
+
+
+.editor {
+  width: 80%;
+  height: 332px;
+  background-color: white;
+  margin: 0px auto;
+}
+
+.button {
+  width: 30%;
+  height: 35px;
+  margin: 0px auto;
+  margin-bottom: 30px;
+  background-color: #C1CDCD;
+  text-align: center;
+  color: white;
+  line-height: 35px;
+  border-radius: 5px;
+  transition: 0.35s;
+}
+
+.button:hover {
+  background-color: #00FF7F;
+}
